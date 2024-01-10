@@ -1,1 +1,3 @@
 # BIT_Object_Oriented_Programming
+北理工面向对象课程作业以及实验代码报告
+作者-bitnoc
